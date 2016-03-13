@@ -1,0 +1,28 @@
+name: stttt
+favicon: null
+layout_spectrum: 0.3059735812712461
+typography_spectrum: 0.7190347027499229
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.09875629260204732
+  lightness: 0.7483522032853216
+  saturation: 0.8146444556768984
+  rhythmicContrast: 0.09710759110748768
+purpose: []
